@@ -4,13 +4,14 @@ h6{
     text-decoration: underline;
     text-align: center;
     font-size: 3.75vh;
-    margin: 0.5vh;
+    margin: 4vh;
     
 }
 
 p{
     font-size: 3.75vh;
     text-align: center;
-    text-decoration:none
+    text-decoration:none;
+    margin: 4vh;
 }
 
