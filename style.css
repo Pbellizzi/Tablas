@@ -2,6 +2,7 @@
 
 body{
     background-color: black;
+    max-height: 100vh;
 }
 h6{
     text-decoration: none;
